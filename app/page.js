@@ -14,7 +14,7 @@ export default function Home() {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                The World's
+                The World&apos;s
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-500 to-blue-600"> Fastest </span>
                 URL Shortener
               </h1>

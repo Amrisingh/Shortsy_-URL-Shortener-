@@ -8,7 +8,7 @@ export async function POST(request) {
    const db = client.db("Shortsy")
    const collection = db.collection("url")
 
-   const result = collection.insertOne({
+   const result = await collection.insertOne({
     url: body.url,
     shorturl: body.shorturl
    })

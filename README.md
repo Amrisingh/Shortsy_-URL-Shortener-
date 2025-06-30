@@ -24,5 +24,9 @@
 - **Styling:** TailwindCSS
 - **Database:** MongoDB
 - **Backend:** Next.js API Routes
+  
+## 🔗 Link
+
+- https://shortsy-url-shortener.vercel.app
 
 
